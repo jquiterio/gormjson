@@ -1,4 +1,4 @@
-package gormdbtype
+package gormjson
 
 import (
 	"database/sql/driver"
